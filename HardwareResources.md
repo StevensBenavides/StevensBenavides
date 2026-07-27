@@ -6,4 +6,6 @@ Building a modern computer from first principles.
 
 ## Hardware Description Language - (System Verilog)
 
+It's System Verilog ¯\_(ツ)_/¯.
+
 > - https://www.verilog.com/
