@@ -1,4 +1,4 @@
-### x86-64 Intel
+### x86_64
 
 > - https://cdrdv2.intel.com/v1/dl/getContent/671110
 
